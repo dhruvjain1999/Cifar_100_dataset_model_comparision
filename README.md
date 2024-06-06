@@ -75,5 +75,3 @@ This project demonstrates the effectiveness of different models for image classi
 Feel free to explore the code and experiment with different architectures and hyperparameters!
 
 ---
-
-Make sure to replace placeholders like `link-to-your-gif.gif`, `your-username`, and `your-repository` with the actual values. You can also add badges, installation instructions for specific environments, and any other relevant information to make your README even more engaging.
